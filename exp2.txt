@@ -4,3 +4,7 @@ Useless lines of branch testing
 Useless lines of branch testing
 Useless lines of branch testing
 
+<<<<<<< HEAD
+=======
+What is going on?
+>>>>>>> test
